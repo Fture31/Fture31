@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BEGADE MAMADJI MANASSE</h1>
-<h3 align="center">🎓 Student | 💻 Full-Stack Enthusiast | 🤖 AI & Big Data Explorer</h3>
+<h3 align="center">🎓 Student | 💻full stack developer | 🤖 AI & Big Data Explorer</h3>
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### 📚 Projects & School Animations
 
-- 🎞️ **Application**: Design of an event management application
+- 📲 **Application**: Design of an event management application
 - 🧠 **AI Chatbot Project**: My master's project is designing an IT incident support application by integrating an intelligent chatbot within the Information Systems Department (DSI) of BEAC CENTRAL SERVICES.
 - 📊 **Data Visualization with Power BI**:Analysis of the academic performance of students at the Abeche Higher Teacher Training College (CHAD).
 - 🧱 **Big Data Pipeline**: Using Hadoop and HBase to process large volumes of student data with replication and clustering.
